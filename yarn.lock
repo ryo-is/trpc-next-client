@@ -246,10 +246,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.0.tgz#7f698254aadf921e48dda8c0a6b304026b8a9323"
   integrity sha512-JLo+Y592QzIE+q7Dl2pMUtt4q8SKYI5jDrZxrozEQxnGVOyYE+GWK9eLkwTaeN9DDctlaRAQ3TBmzZ1qdLE30A==
 
-"@ryo-is/trpc-node-server@0.0.2-2-gf252718":
-  version "0.0.2-2-gf252718"
-  resolved "https://npm.pkg.github.com/download/@ryo-is/trpc-node-server/0.0.2-2-gf252718/7df05ab871358f0070f5686b9d090f3cd9eda6800b836369fdf5e16ffae0face#c861600b9a46a3549bd4bd171eef59393a75cfab"
-  integrity sha512-92VsqRYJGrZcgSQH8M9A62GTAQT++IlKTmLapGQAd34msRJgdvaGPN0U6uwv6hnFh9+CnbafQsk0CkkVRgDdWg==
+"@ryo-is/trpc-node-server@0.0.2-3-g4b29f90":
+  version "0.0.2-3-g4b29f90"
+  resolved "https://npm.pkg.github.com/download/@ryo-is/trpc-node-server/0.0.2-3-g4b29f90/529d1982a435429f1d764d48898df70fca987122e712eca795f2028f9a8f1097#98c1cb237cb4ec29a35b37c0aad6b889e69ed7b7"
+  integrity sha512-1sbq0c3ubL0u0pwpGGdAoOnLYK9jyL9AVxESOW2UFDde7adn/rS6kr3NfO+xawuLEDG3n3BIxS2ZTY+XtwPMbA==
   dependencies:
     "@trpc/server" "^9.16.0"
     cors "^2.8.5"

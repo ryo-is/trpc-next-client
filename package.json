@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@ryo-is/trpc-node-server": "0.0.2-2-gf252718",
+    "@ryo-is/trpc-node-server": "0.0.2-3-g4b29f90",
     "@trpc/client": "^9.16.0",
     "@trpc/react": "^9.16.0",
     "@trpc/server": "^9.16.0",
